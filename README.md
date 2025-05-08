@@ -14,7 +14,7 @@ First, **Connectivity**: EdgeLink ensures robust and reliable connections betwee
 
 Second, **Data Processing**: It provides efficient data processing capabilities, allowing for real-time analysis and decision-making at the edge, reducing latency and enhancing operational responsiveness.
 
-Second,**Protocol Conversion**: EdgeLink supports the translation of various industrial protocols, enabling interoperability between different devices and systems, which is crucial for integrating legacy systems with modern technologies.
+third, **Protocol Conversion**: EdgeLink supports the translation of various industrial protocols, enabling interoperability between different devices and systems, which is crucial for integrating legacy systems with modern technologies.
 
 Lastly, **Security**: It offers advanced security features to protect data integrity and privacy, ensuring that edge devices and the data they handle are secure from potential threats and vulnerabilities.
 
