@@ -1,6 +1,4 @@
-## 0. Suggest a container name on Container Catalog
-
-edgelink
+## 0. Edgelink-docker
 
 ![](image.png)
 
@@ -22,17 +20,17 @@ Lastly, **Security**: It offers advanced security features to protect data integ
 
 ## 3. Supported Host Device List
 
-arm or x86 CPU with Ubuntu OS
+arm or x86 CPU with Linux OS
 
 ## 4. Prerequisite software 
 
-### installed on Windows
+### Requirements on Windows
 
 EdgeLink Studio (Windows app): is a gateway configuration tool for off-line communication and network interface configuration. It supports one-click downloads to the gateways and supports online device status management and monitoring. 
 
 [EdgeLink Studio](https://www.advantech.com.cn/zh-cn/support/details/utility?id=1-28QPAEB)
 
-### System Requirements Host OS
+### System Requirements on Host Linux OS
 
 - Docker and Docker Compose
 - Linux-based operating system (Ubuntu 20.04+ recommended)
@@ -64,7 +62,3 @@ sudo ./build.sh
 ![](image-2.png)
 
 [Quick Start](https://www.advantech.com.cn/zh-cn/support/details/manual?id=1-28LPZU5)
-
-## 8. Best Practice / Known Limitations
-
-## 9. Performance Benchmarking (if any)
