@@ -1,0 +1,9 @@
+# Advantech L2-01 development Docker Compose file
+# Created and maintained by Samir Singh <samir.singh@advantech.com> and Apoorv Saxena <apoorv.saxena@advantech.com>
+# Copyright (c) 2025 Advantech Corporation. All rights reserved.
+services:
+    wisedgelink_i386:
+        image: harbor.edgesync.cloud/iiot-edge-sw-containers/wisedgelink/i386:v2.8.4.2
+
+    wisedgelink_arm32v7:
+        image: harbor.edgesync.cloud/iiot-edge-sw-containers/wisedgelink/arm32v7:v2.8.4.2
