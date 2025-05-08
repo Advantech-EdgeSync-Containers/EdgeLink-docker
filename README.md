@@ -24,21 +24,40 @@ Lastly, **Security**: It offers advanced security features to protect data integ
 
 arm or x86 CPU with Ubuntu OS
 
-## 4. Prerequisite software libraries installed on Host OS
+## 4. Prerequisite software 
+
+### installed on Windows
 
 EdgeLink Studio (Windows app): is a gateway configuration tool for off-line communication and network interface configuration. It supports one-click downloads to the gateways and supports online device status management and monitoring. 
 
 [EdgeLink Studio](https://www.advantech.com.cn/zh-cn/support/details/utility?id=1-28QPAEB)
 
-deb package (Agent for container edgelink): CONTAINER-edgelink-docker-2.8.4.x(version)-202501080717(date)-ubuntu-arm64(cpu).deb  
+### System Requirements Host OS
 
-[Agent for container edgelink](https://www.advantech.com.cn/zh-cn/support/details/firmware?id=1-28S1J4D )
+- Docker and Docker Compose
+- Linux-based operating system (Ubuntu 20.04+ recommended)
 
-## 5. Software Components on Container Image
+## 5. Quick Start
+
+1. Clone the repository to your local machine
+
+```bash
+# Clone the repository
+git clone https://github.com/Advantech-EdgeSync-Containers/Edgelink-docker.git
+cd Edgelink-docker
+```
+
+2. Run the build script to detect and install Agent:
+
+```bash
+chmod +x build.sh
+sudo ./build.sh
+```
+3. Start Edgleink Studio to download your project.
+
+## 6. Software Components on Container Image
 
 ![](image-1.png)
-
-## 6. Supported AI Capabilities/ AI model formats / Accleration / Precision/ etc. 
 
 ## 7. Quick Start Guide
 
@@ -49,5 +68,3 @@ deb package (Agent for container edgelink): CONTAINER-edgelink-docker-2.8.4.x(ve
 ## 8. Best Practice / Known Limitations
 
 ## 9. Performance Benchmarking (if any)
-
-## 9. others if any
