@@ -22,11 +22,11 @@ Lastly, **Security**: It offers advanced security features to protect data integ
 
 arm or x86 CPU with Linux OS
 
-## 4. Prerequisite software 
+## 4. Prerequisite software
 
 ### Requirements on Windows
 
-EdgeLink Studio (Windows app): is a gateway configuration tool for off-line communication and network interface configuration. It supports one-click downloads to the gateways and supports online device status management and monitoring. 
+EdgeLink Studio (Windows app): is a gateway configuration tool for off-line communication and network interface configuration. It supports one-click downloads to the gateways and supports online device status management and monitoring.
 
 [EdgeLink Studio](https://www.advantech.com.cn/zh-cn/support/details/utility?id=1-28QPAEB)
 
@@ -41,8 +41,8 @@ EdgeLink Studio (Windows app): is a gateway configuration tool for off-line comm
 
 ```bash
 # Clone the repository
-git clone https://github.com/Advantech-EdgeSync-Containers/Edgelink-docker.git
-cd Edgelink-docker
+git clone https://github.com/Advantech-EdgeSync-Containers/EdgeLink-docker.git
+cd EdgeLink-docker
 ```
 
 2. Run the build script to detect and install Agent:
@@ -61,8 +61,8 @@ sudo ./build.sh
 
 ![](image-2.png)
 
-For product quick start on EdgeLink Studio and EdgeLink Runtime, please refer to 
-[EdgeLink Quick Start Documentation](https://www.advantech.com.cn/zh-cn/support/details/manual?id=1-28LPZU5) & [Edgelink-docker Github Repository](https://github.com/Advantech-EdgeSync-Containers/Edgelink-docker).
+For product quick start on EdgeLink Studio and EdgeLink Runtime, please refer to
+[EdgeLink Quick Start Documentation](https://www.advantech.com.cn/zh-cn/support/details/manual?id=1-28LPZU5) & [EdgeLink-docker Github Repository](https://github.com/Advantech-EdgeSync-Containers/EdgeLink-docker).
 
 
 ## 8. Product & Technical Contact
