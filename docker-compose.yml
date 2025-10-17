@@ -5,11 +5,11 @@ version: "3.3"
 
 services:
   wisedgelink_i386:
-    image: harbor.edgesync.cloud/iiot-edge-sw-containers/wisedgelink/i386:v2.8.4.2
+    image: harbor.edgesync.cloud/iiot-edge-sw-containers/wisedgelink/i386:v2.8.4.4
     container_name: wisedgelink_i386
     restart: unless-stopped
 
   wisedgelink_arm32v7:
-    image: harbor.edgesync.cloud/iiot-edge-sw-containers/wisedgelink/arm32v7:v2.8.4.2
+    image: harbor.edgesync.cloud/iiot-edge-sw-containers/wisedgelink/arm32v7:v2.8.4.4
     container_name: wisedgelink_arm32v7
     restart: unless-stopped
