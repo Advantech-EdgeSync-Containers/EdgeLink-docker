@@ -1,4 +1,4 @@
-## 0. Edgelink-docker
+## 0. EdgeLink-docker
 
 ![](image.png)
 
@@ -70,6 +70,7 @@ For more product information or technical support regarding EdgeLink Docker, ple
 
 
 Copyright © 2025 Advantech Corporation. All rights reserved.
+
 
 
 
