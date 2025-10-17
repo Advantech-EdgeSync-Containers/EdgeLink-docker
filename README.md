@@ -66,10 +66,11 @@ For product quick start on EdgeLink Studio and EdgeLink Runtime, please refer to
 
 
 ## 8. Product & Technical Contact
-For more information or technical support regarding EdgeLink Docker, please contact Lili Zheng (Product) at Lili.Zheng@advantech.com.cn and Suchao Wang (Technical) at suchao.wang@advantech.com.cn
+For more product information or technical support regarding EdgeLink Docker, please contact Lili Zheng (Product) at Lili.Zheng@advantech.com.cn and Suchao Wang (Technical) at suchao.wang@advantech.com.cn
 
 
 Copyright © 2025 Advantech Corporation. All rights reserved.
+
 
 
 
